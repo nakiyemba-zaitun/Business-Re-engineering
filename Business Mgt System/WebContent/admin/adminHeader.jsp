@@ -10,7 +10,7 @@
     <br>
     <div class="topnav sticky">
    
-            <center><h2>Online shopping (BTech Days)</h2></center>
+            <center><h2>Business Mgt</h2></center>
             <a href="">Add New Product <i class='fas fa-plus-square'></i></a>
             <a href="">All Products & Edit Products <i class='fab fa-elementor'></i></a>
             <a href="">Messages Received <i class='fas fa-comment-alt'></i></a>

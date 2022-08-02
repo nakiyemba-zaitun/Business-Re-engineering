@@ -10,7 +10,7 @@
     <br>
     <div class="topnav sticky">
     
-            <center><h2>Online shopping (BTech Days)</h2></center>
+            <center><h2>Business Regineer</h2></center>
             <h2><a href=""> <i class='fas fa-user-alt'></i></a></h2>
             <a href="">Home<i class="fa fa-institution"></i></a>
             <a href="">My Cart<i class='fas fa-cart-arrow-down'></i></a>
